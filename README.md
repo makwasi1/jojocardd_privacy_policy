@@ -1,7 +1,7 @@
 # jojocardd_privacy_policy
 Privacy Policy  
 ----------------
-
+<meta name="google-site-verification" content="Gjlkzw4qcCcEmfh9jvTOMmJNzN6D9r48o2ii4IHc1j0" />
 ### Introduction  
 Our privacy policy will help you understand what information we collect at *Jojocards*, how *Jojocards* uses it, and what choices you have.
 jojocards built the jojocards app as a free app. This SERVICE is provided by Jojocards at no cost and is intended for use as is.
