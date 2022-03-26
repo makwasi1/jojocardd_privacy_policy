@@ -1,4 +1,4 @@
-# jojocardd_privacy_policy
+# jojocards_privacy_policy
 Privacy Policy  
 ----------------
 <meta name="google-site-verification" content="Gjlkzw4qcCcEmfh9jvTOMmJNzN6D9r48o2ii4IHc1j0" />
